@@ -4,7 +4,7 @@
 
 body{
   background-image: url('/public/assets/images/moon-space.svg');
-  @apply font-serif bg-cover bg-center bg-no-repeat;
+  @apply font-serif bg-cover bg-center bg-no-repeat bg-fixed;
 }
 
 .event-card{

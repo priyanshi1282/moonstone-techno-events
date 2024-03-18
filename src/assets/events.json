@@ -1,0 +1,52 @@
+{
+    "events" : [
+        {
+            "id" : 1,
+            "title" : "name",
+            "date" : "23 march",
+            "time" : "8 am - 9 am",
+            "img" : "/",
+            "venue" : "/"
+        },
+        {
+            "id" : 2,
+            "title" : "name",
+            "date" : "23 march",
+            "time" : "8 am - 9 am",
+            "img" : "/",
+            "venue" : "/"
+        },
+        {
+            "id" : 3,
+            "title" : "name",
+            "date" : "23 march",
+            "time" : "8 am - 9 am",
+            "img" : "/",
+            "venue" : "/"
+        },
+        {
+            "id" : 4,
+            "title" : "name",
+            "date" : "23 march",
+            "time" : "8 am - 9 am",
+            "img" : "/",
+            "venue" : "/"
+        },
+        {
+            "id" : 5,
+            "title" : "name",
+            "date" : "23 march",
+            "time" : "8 am - 9 am",
+            "img" : "/",
+            "venue" : "/"
+        },
+        {
+            "id" : 6,
+            "title" : "name",
+            "date" : "23 march",
+            "time" : "8 am - 9 am",
+            "img" : "/",
+            "venue" : "/"
+        }
+    ]
+}

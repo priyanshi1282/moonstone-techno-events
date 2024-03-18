@@ -3,6 +3,7 @@ import Navbar from './components/Navbar'
 import EventSection from './components/EventSection'
 import MoonstoneSection from './components/MoonstoneSection'
 import Credits from './components/Credits'
+import Footer from './components/Footer'
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
     <EventSection />
     <MoonstoneSection />
     <Credits />
+    <Footer />
    </div>
   )
 }

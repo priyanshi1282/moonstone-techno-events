@@ -1,0 +1,28 @@
+{
+    "credits" : [
+        {
+            "id" : 1,
+            "name" : "name",
+            "position" : "position",
+            "url" : "url"
+        },
+        {
+            "id" : 2,
+            "name" : "name",
+            "position" : "position",
+            "url" : "url"
+        },
+        {
+            "id" : 3,
+            "name" : "name",
+            "position" : "position",
+            "url" : "url"
+        },
+        {
+            "id" : 4,
+            "name" : "name",
+            "position" : "position",
+            "url" : "url"
+        }
+    ]
+}

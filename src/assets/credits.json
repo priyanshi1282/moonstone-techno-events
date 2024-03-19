@@ -4,25 +4,15 @@
             "id" : 1,
             "name" : "name",
             "position" : "position",
-            "url" : "url"
+            "url" : "url",
+            "img" : "url"
         },
         {
             "id" : 2,
-            "name" : "name",
-            "position" : "position",
-            "url" : "url"
-        },
-        {
-            "id" : 3,
-            "name" : "name",
-            "position" : "position",
-            "url" : "url"
-        },
-        {
-            "id" : 4,
-            "name" : "name",
-            "position" : "position",
-            "url" : "url"
+            "name" : "Priyanshi Agrawal",
+            "position" : "Web Developer",
+            "url" : "linkedin.com/in/priyanshi-agrawal-88b6341bb",
+            "img" : "url"
         }
     ]
 }

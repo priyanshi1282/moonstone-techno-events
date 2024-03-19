@@ -11,7 +11,7 @@ const Credits = () => {
         <div className='mt-10 flex gap-10 justify-center items-center flex-wrap'>
           {
             data.map((item) => (
-              <CreditsCard key={item.id} />
+              <CreditsCard key={item.id} item={item} />
             ))
           }
         </div>

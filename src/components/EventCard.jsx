@@ -35,7 +35,7 @@ const EventCard = (props) => {
 
   return (
     <div className='rounded-xl w-[250px] event-card h-fit'>
-        <img src={props.item.img} alt="event-img" className='w-full rounded-xl' />
+        <img src={props.item.img} alt="event-img" className='w-full rounded-xl aspect-square' />
         <div className='px-2 md:py-4 py-2 text-center'>
         <p className='md:text-xl text-lg font-semibold my-0 leading-none'>{props.item.title}</p>
         <p className='mt-1 md:mb-3 mb-2'>{props.item.date} | {props.item.time}</p>

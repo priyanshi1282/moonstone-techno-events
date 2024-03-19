@@ -2,51 +2,147 @@
     "events" : [
         {
             "id" : 1,
-            "title" : "name",
-            "date" : "23 march",
-            "time" : "8 am - 9 am",
-            "img" : "/",
-            "venue" : "/"
+            "title" : "Stellar Soiree",
+            "date" : "21 March",
+            "time" : "7PM Onwards",
+            "img" : "https://ik.imagekit.io/0ob92jg8l/Location/Stellar%20Soiree.png?updatedAt=1710861290064",
+            "venue" : "https://ik.imagekit.io/0ob92jg8l/Location/S.png?updatedAt=1710861107714"
         },
         {
             "id" : 2,
-            "title" : "name",
-            "date" : "23 march",
-            "time" : "8 am - 9 am",
-            "img" : "/",
-            "venue" : "/"
+            "title" : "Robo Soccer",
+            "date" : "21 March",
+            "time" : "1PM - 5PM",
+            "img" : "https://ik.imagekit.io/0ob92jg8l/Location/ROBO%20SOCCER%202.0.jpg?updatedAt=1710861495869",
+            "venue" : "https://ik.imagekit.io/0ob92jg8l/Location/F.png?updatedAt=1710861107683"
         },
         {
             "id" : 3,
-            "title" : "name",
-            "date" : "23 march",
-            "time" : "8 am - 9 am",
-            "img" : "/",
-            "venue" : "/"
+            "title" : "Code Master 1.0",
+            "date" : "21 March",
+            "time" : "10AM Onwards",
+            "img" : "https://ik.imagekit.io/0ob92jg8l/Location/Code%20Master%201.0.jpg?updatedAt=1710861659275",
+            "venue" : "https://ik.imagekit.io/0ob92jg8l/Location/N.png?updatedAt=1710861107727"
         },
         {
             "id" : 4,
-            "title" : "name",
-            "date" : "23 march",
-            "time" : "8 am - 9 am",
-            "img" : "/",
-            "venue" : "/"
+            "title" : "Drone Pick & Drop",
+            "date" : "21 March",
+            "time" : "1PM - 5PM",
+            "img" : "https://ik.imagekit.io/0ob92jg8l/Location/Drone%20Pick%20&%20Drop.jpg?updatedAt=1710862126045",
+            "venue" : "https://ik.imagekit.io/0ob92jg8l/Location/F.png?updatedAt=1710861107683"
         },
         {
             "id" : 5,
-            "title" : "name",
-            "date" : "23 march",
-            "time" : "8 am - 9 am",
-            "img" : "/",
-            "venue" : "/"
+            "title" : "Technical Tambola 3.0",
+            "date" : "21 March",
+            "time" : "2PM - 5PM",
+            "img" : "https://ik.imagekit.io/0ob92jg8l/Location/Technical%20Tambola%203.0.png?updatedAt=1710863364399",
+            "venue" : "https://ik.imagekit.io/0ob92jg8l/Location/Q.png?updatedAt=1710861107824"
         },
         {
             "id" : 6,
-            "title" : "name",
-            "date" : "23 march",
-            "time" : "8 am - 9 am",
-            "img" : "/",
-            "venue" : "/"
+            "title" : "Anime Zing 2.0",
+            "date" : "21 March",
+            "time" : "2PM - 5PM",
+            "img" : "https://ik.imagekit.io/0ob92jg8l/Location/Anime%20Zing%202.0.jpg?updatedAt=1710862286824",
+            "venue" : "https://ik.imagekit.io/0ob92jg8l/Location/F.png?updatedAt=1710861107683"
+        },
+        {
+            "id" : 7,
+            "title" : "STIC Mini Carnival",
+            "date" : "21,22 & 23 March",
+            "time" : "3PM - 9PM",
+            "img" : "https://ik.imagekit.io/0ob92jg8l/Location/STIC%20Mini%20Carnival.png?updatedAt=1710863279598",
+            "venue" : "https://ik.imagekit.io/0ob92jg8l/Location/Admission%20Cell%20Garden.png?updatedAt=1710863231440"
+        },
+        {
+            "id" : 8,
+            "title" : "Among Us On The Table",
+            "date" : "21,22 & 23 March",
+            "time" : "12PM - 4PM",
+            "img" : "https://ik.imagekit.io/0ob92jg8l/Location/Among%20Us%20On%20The%20Table.jpg?updatedAt=1710863513930",
+            "venue" : "https://ik.imagekit.io/0ob92jg8l/Location/I.png?updatedAt=1710861107616"
+        },
+        {
+            "id" : 9,
+            "title" : "Chess Tournament",
+            "date" : "21,22 & 23 March",
+            "time" : "12PM - 4PM",
+            "img" : "https://ik.imagekit.io/0ob92jg8l/Location/Chess%20Tournament.jpg?updatedAt=1710863689995",
+            "venue" : "https://ik.imagekit.io/0ob92jg8l/Location/V.png?updatedAt=1710861107711"
+        },
+        {
+            "id" : 10,
+            "title" : "VR Exploration",
+            "date" : "21,22 & 23 March",
+            "time" : "10PM - 6PM",
+            "img" : "https://ik.imagekit.io/0ob92jg8l/Location/VR%20Exploration.jpg?updatedAt=1710863774326",
+            "venue" : "https://ik.imagekit.io/0ob92jg8l/Location/Q.png?updatedAt=1710861107824"
+        },
+        {
+            "id" : 11,
+            "title" : "Bucket The Code",
+            "date" : "21,22 & 23 March",
+            "time" : "12PM - 3PM",
+            "img" : "https://ik.imagekit.io/0ob92jg8l/Location/Bucket%20The%20Code.jpg?updatedAt=1710866209909",
+            "venue" : "https://ik.imagekit.io/0ob92jg8l/Location/V.png?updatedAt=1710861107711"
+        },
+        {
+            "id" : 12,
+            "title" : "Kaun Banega CodePati",
+            "date" : "22 & 23 March",
+            "time" : "12PM - 6PM",
+            "img" : "https://ik.imagekit.io/0ob92jg8l/Location/Kaun%20Banega%20CodePati.jpg?updatedAt=1710863897378",
+            "venue" : "https://ik.imagekit.io/0ob92jg8l/Location/Q.png?updatedAt=1710861107824"
+        },
+        {
+            "id" : 13,
+            "title" : "No Way Out - The Escape Room",
+            "date" : "22 & 23 march",
+            "time" : "1PM - 4PM",
+            "img" : "https://ik.imagekit.io/0ob92jg8l/Location/No%20Way%20Out.jpg?updatedAt=1710865131768",
+            "venue" : "https://ik.imagekit.io/0ob92jg8l/Location/V.png?updatedAt=1710861107711"
+        },
+        {
+            "id" : 14,
+            "title" : "Tambola Tales Of Science",
+            "date" : "22 March",
+            "time" : "1PM - 3PM",
+            "img" : "https://ik.imagekit.io/0ob92jg8l/Location/Tambola%20Tales%20Of%20Science.jpg?updatedAt=1710864158815",
+            "venue" : "https://ik.imagekit.io/0ob92jg8l/Location/F.png?updatedAt=1710861107683"
+        },
+        {
+            "id" : 15,
+            "title" : "Tic Tac Throw",
+            "date" : "22 & 23 March",
+            "time" : "12PM - 5PM",
+            "img" : "https://ik.imagekit.io/0ob92jg8l/Location/Tic%20Tac%20Throw.jpg?updatedAt=1710864391152",
+            "venue" : "https://ik.imagekit.io/0ob92jg8l/Location/Basket%20Ball%20Ground.png?updatedAt=1710861107708"
+        },
+        {
+            "id" : 16,
+            "title" : "Challenge Clone IT",
+            "date" : "22 & 23 March",
+            "time" : "12PM - 3PM",
+            "img" : "https://ik.imagekit.io/0ob92jg8l/Location/Challenge%20Clone%20IT.jpg?updatedAt=1710864552527",
+            "venue" : "https://ik.imagekit.io/0ob92jg8l/Location/V.png?updatedAt=1710861107711"
+        },
+        {
+            "id" : 17,
+            "title" : "IPL Auction",
+            "date" : "22 & 23 March",
+            "time" : "11AM Onwards",
+            "img" : "https://ik.imagekit.io/0ob92jg8l/Location/IPL%20Auction.jpg?updatedAt=1710868311528",
+            "venue" : "https://ik.imagekit.io/0ob92jg8l/Location/V.png?updatedAt=1710861107711"
+        },
+        {
+            "id" : 18,
+            "title" : "Chamber Of Secrets",
+            "date" : "22 March",
+            "time" : "11AM - 2PM",
+            "img" : "https://ik.imagekit.io/0ob92jg8l/Location/Chamber%20of%20Secrets.png?updatedAt=1710865634500",
+            "venue" : "https://ik.imagekit.io/0ob92jg8l/Location/V.png?updatedAt=1710861107711"
         }
     ]
 }

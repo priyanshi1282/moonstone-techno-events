@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 body{
-  background-image: url('/public/assets/images/moon-space.svg');
+  background-image: url('/public/assets/images/moon-space.webp');
   @apply font-serif bg-cover bg-center bg-no-repeat bg-fixed;
 }
 

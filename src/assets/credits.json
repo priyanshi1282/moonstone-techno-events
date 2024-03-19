@@ -11,8 +11,15 @@
             "id" : 2,
             "name" : "Priyanshi Agrawal",
             "position" : "Web Developer",
-            "url" : "linkedin.com/in/priyanshi-agrawal-88b6341bb",
-            "img" : "url"
+            "url" : "https://www.linkedin.com/in/priyanshi-agrawal-88b6341bb",
+            "img" : "https://ik.imagekit.io/0ob92jg8l/Location/Priyanshi_Agrawal.png?updatedAt=1710878010715"
+        },
+        {
+            "id" : 3,
+            "name" : "Saksham Gupta",
+            "position" : "Web Developer",
+            "url" : "https://www.linkedin.com/in/saksham-gupta-24076422b/",
+            "img" : "https://ik.imagekit.io/0ob92jg8l/Location/Saksham_Gupta.png?updatedAt=1710878037461"
         }
     ]
 }

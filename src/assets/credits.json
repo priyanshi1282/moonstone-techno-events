@@ -2,10 +2,10 @@
     "credits" : [
         {
             "id" : 1,
-            "name" : "name",
-            "position" : "position",
-            "url" : "url",
-            "img" : "url"
+            "name" : "Dr. Latika Jindal",
+            "position" : "Head Techno-Management",
+            "url" : "https://www.linkedin.com/in/dr-latika-jindal",
+            "img" : "https://ik.imagekit.io/0ob92jg8l/Location/Latika_Mam.png?updatedAt=1710879084500"
         },
         {
             "id" : 2,

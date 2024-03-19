@@ -16,7 +16,7 @@ const EventSection = () => {
             ))
         }
         </div>
-        <img src="https://ik.imagekit.io/0ob92jg8l/Location/UNIVERSITY%20MAP.png?updatedAt=1710877629417" className='w-[80%] my-16 mx-auto rounded-xl' alt="" />
+        <img src="https://ik.imagekit.io/0ob92jg8l/Location/UNIVERSITY%20MAP.png?updatedAt=1710877629417" className='md:w-[80%] my-16 mx-auto rounded-xl' alt="" />
     </div>
   )
 }
